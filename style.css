@@ -1,0 +1,13 @@
+h1, h2 {
+  font-family: Lato;
+}
+button{
+  background-color: rgb(166, 201, 86);
+  border-radius: 15px;
+  padding: 10px;
+  outline: none;
+  box-shadow: 0 0 0.5px 1px;
+}
+a{
+  text-decoration: none;
+}
