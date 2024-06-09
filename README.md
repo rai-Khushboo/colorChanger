@@ -14,7 +14,9 @@ Features⚙️:
 Technologies Used🌐:
 
 🌐 HTML: Provides the structure of the web page.
+
 🎨 CSS: Used for styling the web page, including the buttons and background.
+
 🛠️ JavaScript: Handles the logic for changing the background color on start and stop actions.
 
 Contributions are welcome!😀 Please feel free to submit a Pull Request🪢.
